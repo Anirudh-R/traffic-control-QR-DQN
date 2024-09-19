@@ -7,7 +7,7 @@ We use SUMO ([Simulation of Urban MObility](https://eclipse.dev/sumo/)) V1.8 pac
 We have used PyCharm and Anaconda for development of this project. Any IDE can be used, provided the dependencies are properly installed in your respective environments. Tested on Windows and Ubuntu.
 
 The project folder contains the following important directories:
-* The `/src` directory contains all the source codes needed to run the project.
+* The `/src` directory contains all the source code needed to run the project.
 * The `/scripts` directory contains SUMO files needed to generate traffic patterns. Also, output files from SUMO will be generated in this directory.
 * The `/src/pt_trainedmodel` directory contains the saved neural network weights after training.
 * The `/src/datapoints` directory contains the saved datapoints of the averaged metrics.
